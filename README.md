@@ -1,9 +1,31 @@
-- 👋 Hi, I’m @rami-bouraoui data analyst 
-- 👀 I’m interested in leveraging data analytics to drive business insights and optimize decision-making processes. Additionally, I'm passionate about the competitive gaming industry and its evolving landscape.
-- 🌱 I’m currently learning advanced statistical techniques and machine learning algorithms to enhance my data analysis capabilities. I'm also expanding my knowledge of esports trends and strategies.
-- 💞️ I’m looking to collaborate  on data-driven projects that have a tangible impact on business performance, as well as initiatives related to competitive gaming analysis or esports event organization.
-- 📫 How to reach me Please feel free to connect with me via direct message on my  linkedin profile www.linkedin.com/in/bouraouirami
-    or through my professional email address bouraouirami411@gmail.com .
+👋 Hi, I’m Rami Bouraoui, a Data Analyst & Back-End Python Developer with a Master’s in Business Analytics.
+
+👀 I work on data-intensive applications, focusing on ETL pipelines, data warehousing, backend development, and analytics—mainly in the banking and financial domain. I enjoy transforming complex, multi-source data into scalable, high-performance systems that support analytical and regulatory needs.
+
+🛠 Tech Stack & Tools
+
+Languages: Python, SQL, PL/SQL, R
+
+Backend: Django, Celery, RabbitMQ
+
+Databases: PostgreSQL, SQL Server, Oracle
+
+Data & ETL: Alteryx, Talend, PySpark, Data Modeling
+
+BI & Analytics: Power BI, Excel, Dashboarding
+
+DevOps & Tools: Docker, Git/GitHub, Bash, VMware
+
+Data Science: Machine Learning, Predictive Modeling, Deep Learning
+
+🌱 I’m continuously strengthening my skills in advanced analytics, machine learning, and data engineering, while deepening my expertise in Python, Django, SQL, data warehousing, and performance optimization.
+
+💞️ Open to collaborating on data analytics, BI, ETL, backend, and data engineering projects with real-world impact.
+
+📫 How to reach me Please feel free to connect with me via direct message on my linkedin profile  or through my professional email address 
+
+- www.linkedin.com/in/bouraouirami
+- bouraouirami411@gmail.com
 
 
 <!---
